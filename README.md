@@ -34,3 +34,7 @@ This repository contains no executable code by design.
 
 ## Security
 Please see SECURITY.md for responsible disclosure instructions.
+
+## Project maturity
+Remapped Protocol is in active development.
+Design decisions are published before implementation to reduce surprise changes.
