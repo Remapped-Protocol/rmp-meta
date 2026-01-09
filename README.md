@@ -23,6 +23,9 @@ RMP prioritizes predictability, transparency, and constrained authority over gro
 - Docs: https://remappedprotocol.org/docs
 - Whitepaper (PDF): https://remappedprotocol.org/Remapped_Protocol_Whitepaper_v1.1.pdf
 
+## Specifications
+- Specs (design + interfaces): https://github.com/Remapped-Protocol/rmp-specs
+
 ## Token
 The RMP token is a native asset with a fixed supply.
 It exists solely to fund development, infrastructure, and security.
